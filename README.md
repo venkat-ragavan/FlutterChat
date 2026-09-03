@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # chat_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# FlutterChat
+A real-time chat application built with Flutter and Firebase, supporting user authentication and cloud-based messaging. Uses Firebase Authentication and Cloud Firestore to provide real-time message synchronization with a clean chat UI.
+>>>>>>> origin/master
