@@ -32,13 +32,32 @@ The application demonstrates user authentication, real-time messaging using Clou
 ---
 
 ## 📸 Screenshots
-Add application screenshots here.
-
-screenshots/
-├── fc_chat.png
-├── fc_signin.png
-├── fc_signup.png
-└── fc_signup_validation.png
+<table>
+  <tr>
+    <td>
+      <b>Chat Screen</b>
+      <br/>
+      <img src="screenshots/fc_chat.png" width="300"/>
+    </td>
+    <td>
+      <b>Push Notification</b>
+      <br/>
+      <img src="screenshots/fc_push_notification.png" width="300"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Sign In Screen</b>
+      <br/>
+      <img src="screenshots/fc_signin.png" width="300"/>
+    </td>
+    <td>
+      <b>Sign Up Screen</b>
+      <br/>
+      <img src="screenshots/fc_signup_validation.png" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ## 🔥 Firebase Integration
 This project uses Firebase for authentication and real-time data storage.
